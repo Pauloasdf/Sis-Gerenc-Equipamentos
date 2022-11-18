@@ -19,7 +19,7 @@
     "react-hot-loader": "^4.12.6",
     "react-qr-reader": "^2.2.1",
     "react-router-dom": "^5.0.1",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-sticky-footer": "0.1.0-rc3",
     "reactstrap": "^8.0.0",
     "reverse-md5": "0.0.4",
